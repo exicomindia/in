@@ -11,26 +11,47 @@
 	<title>Exicom India, 4G Mobile | FibreX Broadband | d2h DTH</title>
 	<atom:link href="https://exicomindia.github.io/in/feed/" rel="self" type="application/rss+xml" />
 	<link>https://exicomindia.github.io/in</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 30 Jul 2017 15:37:55 +0000</lastBuildDate>
+	<description>What you want!</description>
+	<lastBuildDate>Sun, 30 Jul 2017 17:26:28 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8</generator>
+
+<image>
+	<url>https://exicomindia.github.io/in/wp-content/uploads/2017/07/Exicom-Logo-Small.png</url>
+	<title>Exicom India, 4G Mobile | FibreX Broadband | d2h DTH</title>
+	<link>https://exicomindia.github.io/in</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Hello world!</title>
-		<link>https://exicomindia.github.io/in/2017/07/30/hello-world/</link>
-		<comments>https://exicomindia.github.io/in/2017/07/30/hello-world/#comments</comments>
-		<pubDate>Sun, 30 Jul 2017 15:37:55 +0000</pubDate>
+		<title>Exicom Presents new Simple 699 plan</title>
+		<link>https://exicomindia.github.io/in/2017/07/30/exicom-presents-new-simple-699-plan/</link>
+		<comments>https://exicomindia.github.io/in/2017/07/30/exicom-presents-new-simple-699-plan/#respond</comments>
+		<pubDate>Sun, 30 Jul 2017 16:38:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorised]]></category>
 
-		<guid isPermaLink="false">https://exicomindia.github.io/in/?p=1</guid>
-		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-			<wfw:commentRss>https://exicomindia.github.io/in/2017/07/30/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+		<guid isPermaLink="false">https://exicomindia.github.io/in/?p=44</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>https://exicomindia.github.io/in/2017/07/30/exicom-presents-new-simple-699-plan/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Exicom to soon launch Fibre Broadband Service</title>
+		<link>https://exicomindia.github.io/in/2017/07/30/exicom-to-soon-launch-fibre-broadband-service/</link>
+		<comments>https://exicomindia.github.io/in/2017/07/30/exicom-to-soon-launch-fibre-broadband-service/#respond</comments>
+		<pubDate>Sun, 30 Jul 2017 16:38:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorised]]></category>
+
+		<guid isPermaLink="false">https://exicomindia.github.io/in/?p=42</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>https://exicomindia.github.io/in/2017/07/30/exicom-to-soon-launch-fibre-broadband-service/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
